@@ -77,9 +77,9 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://north-atlas-3e6f.vercel.app"><img src="assets/projects/custom-2d-rpg.jpg" alt="Chapters of Us" /></a>
-      <br/><b>Chapters of Us</b> — a narrative 2D RPG
-      <br/><a href="https://north-atlas-3e6f.vercel.app">Play</a> · <a href="https://github.com/sharma-prawal/custom-2d-rpg">Code</a> · <sub>Phaser 3 · TypeScript</sub>
+      <a href="https://prawalsharma.itch.io/praashi"><img src="assets/projects/anniversary-renpy.jpg" alt="Our Story — visual novel" /></a>
+      <br/><b>Our Story — visual novel</b> — a Ren'Py anniversary visual novel
+      <br/><a href="https://prawalsharma.itch.io/praashi">Play on itch.io</a> · <a href="https://github.com/sharma-prawal/anniversary-renpy">Code</a> · <sub>Ren'Py · Python</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://gemini-tic-tac-toe-3d.vercel.app"><img src="assets/projects/gemini-tic-tac-toe-3d.jpg" alt="3D Tic Tac Toe" /></a>
