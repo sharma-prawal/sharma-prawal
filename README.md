@@ -152,8 +152,8 @@ All verified badges: [credly.com/users/sharma-prawal](https://www.credly.com/use
 ## 📊 GitHub activity
 
 <div align="center">
-  <img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=sharma-prawal&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&show=prs_merged&card_width=400&hide_border=true&theme=tokyonight&cache_seconds=21600" alt="GitHub stats" />
-  <img width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-prawal&layout=compact&langs_count=6&card_width=400&hide_border=true&theme=tokyonight&cache_seconds=21600" alt="Top languages" />
+  <img width="400" height="170" src="https://raw.githubusercontent.com/sharma-prawal/sharma-prawal/output/github-stats.svg" alt="GitHub stats" />
+  <img width="400" height="170" src="https://raw.githubusercontent.com/sharma-prawal/sharma-prawal/output/top-languages.svg" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=sharma-prawal&hide_border=true&theme=tokyonight" alt="Contribution streak" />
   <br/><br/>
