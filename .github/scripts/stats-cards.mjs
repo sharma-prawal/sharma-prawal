@@ -1,4 +1,4 @@
-// Writes the two GitHub activity cards used by the profile README.
+// Writes the two GitHub activity cards (stats and top languages) used by the profile README.
 // Usage: GITHUB_TOKEN=... node stats-cards.mjs <login> <output-dir>
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
