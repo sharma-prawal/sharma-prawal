@@ -60,7 +60,7 @@
 
   <g transform="translate(64 220)">
     <rect class="chipbox" width="132" height="34" rx="17"/>
-    <text class="chip" x="66" y="22" text-anchor="middle">9+ YEARS</text>
+    <text class="chip" x="66" y="22" text-anchor="middle">10 YEARS</text>
     <rect class="chipbox" x="146" width="176" height="34" rx="17"/>
     <text class="chip" x="234" y="22" text-anchor="middle">LLMs · AGENTS</text>
     <rect class="chipbox" x="336" width="200" height="34" rx="17"/>
