@@ -33,13 +33,20 @@ Technology Manager with **10 years** of leading engineering teams and shipping s
 
 ## 💼 Experience — Successive Digital, Noida *(Aug 2017 – present)*
 
-| Role | Period | Highlights |
-|---|---|---|
-| **Technology Manager** | Nov 2024 – Present | Lead global client engagements; introduced AI-assisted development (code gen, debugging, docs) for ~20–30% productivity gains; built LLM & intelligent-data POCs; mentor engineers across full-stack and cloud. |
-| **Technology Lead** | Jul 2021 – Nov 2024 | End-to-end delivery with 100% client satisfaction and zero escalations; owned architecture across MERN, PHP and GraphQL; led a team of 11 on a 90+ source connectors platform. |
-| **Software Engineer** | Oct 2019 – Jul 2021 | Technical lead for 3 parallel pods for a global advertising enterprise (Node.js, React, Redux, GraphQL). |
-| **Associate Software Engineer** | Mar 2018 – Sep 2019 | Led a team of 4; scalable APIs and backend optimisation, ~50% lift in customer satisfaction. |
-| **Software Engineer Trainee** | Aug 2017 – Feb 2018 | Internal tools — room booking and HR letter automation (PHP, Laravel & Lumen). |
+- **Technology Manager** &nbsp;·&nbsp; <sub>NOV 2024 – PRESENT</sub><br/>
+  Lead global client engagements; introduced AI-assisted development (code gen, debugging, docs) for ~20–30% productivity gains; built LLM & intelligent-data POCs; mentor engineers across full-stack and cloud.
+
+- **Technology Lead** &nbsp;·&nbsp; <sub>JUL 2021 – NOV 2024</sub><br/>
+  End-to-end delivery with 100% client satisfaction and zero escalations; owned architecture across MERN, PHP and GraphQL; led a team of 11 on a 90+ source connectors platform.
+
+- **Software Engineer** &nbsp;·&nbsp; <sub>OCT 2019 – JUL 2021</sub><br/>
+  Technical lead for 3 parallel pods for a global advertising enterprise (Node.js, React, Redux, GraphQL).
+
+- **Associate Software Engineer** &nbsp;·&nbsp; <sub>MAR 2018 – SEP 2019</sub><br/>
+  Led a team of 4; scalable APIs and backend optimisation, ~50% lift in customer satisfaction.
+
+- **Software Engineer Trainee** &nbsp;·&nbsp; <sub>AUG 2017 – FEB 2018</sub><br/>
+  Internal tools — room booking and HR letter automation (PHP, Laravel & Lumen).
 
 ## 🧩 Selected work
 
