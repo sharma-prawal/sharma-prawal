@@ -50,7 +50,7 @@ Technology Manager with **10 years** of leading engineering teams and shipping s
 
 ## 🧩 Selected work
 
-- **Data Refinery** *(Media advertising · Technical Lead)* — governed data-activation platform serving 87+ sources with 1–2 day onboarding: connectors, cleansing recipes and delivery to S3, GCP, Snowflake and analytics tools.
+- **Data Refinery** *(Media advertising · Technical Lead)* — governed data-activation platform serving 90+ sources with 1–2 day onboarding: connectors, cleansing recipes and delivery to S3, GCP, Snowflake and analytics tools.
 - **Enrollment & Transactions** *(Fintech · Team Lead & Engineering Manager)* — white-labelled ACH payment platform: enrollment APIs, transaction ops, fraud scoring, compliance reporting, identity flows.
 - **AI-Driven Datasource Intelligence** *(AI/ML POC · 2026)* — predicts pipeline schedule risk before the first run using XGBoost with explainable AI.
 - **Taxonomy** *(Media advertising)* — dependency-driven spreadsheet engine generating unique campaign identifiers (React, GraphQL, Apollo, Node.js, MongoDB).
