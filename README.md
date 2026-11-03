@@ -3,7 +3,7 @@
 <a href="https://prawal-personal-brand.vercel.app"><img src="assets/banner.svg" width="100%" alt="Prawal Sharma — Technology Manager · AI-Driven Engineering Leader · Cloud & Scalable Systems" /></a>
 
 <a href="https://prawal-personal-brand.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5383B&center=true&vCenter=true&width=640&lines=Technology+Manager+%40+Successive+Digital;AI-Driven+Engineering+Leader;LLMs+%C2%B7+Agentic+AI+%C2%B7+MCP;Cloud-Native+%26+Scalable+Systems;9%2B+years+building+for+global+clients" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5383B&center=true&vCenter=true&width=640&lines=Technology+Manager+%40+Successive+Digital;AI-Driven+Engineering+Leader;LLMs+%C2%B7+Agentic+AI+%C2%B7+MCP;Cloud-Native+%26+Scalable+Systems;10+years+building+for+global+clients" alt="Typing intro" />
 </a>
 
 <p>
@@ -17,7 +17,7 @@
 
 ## 🚀 About me
 
-Technology Manager with **9+ years** of leading engineering teams and shipping scalable, high-impact systems for global clients across the **US, UK and South Africa**. I specialise in AI-enabled, cloud-native solutions — LLM integrations, intelligent automation, microservices, event-driven and serverless architecture — pairing strong engineering fundamentals with modern AI tooling.
+Technology Manager with **10 years** of leading engineering teams and shipping scalable, high-impact systems for global clients across the **US, UK and South Africa**. I specialise in AI-enabled, cloud-native solutions — LLM integrations, intelligent automation, microservices, event-driven and serverless architecture — pairing strong engineering fundamentals with modern AI tooling.
 
 **Claude Certified Architect (Anthropic)** · AWS, Azure and GCP certified · Media (advertising data) and Banking (payments) domains.
 
@@ -25,7 +25,7 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 
 <div align="center">
 
-| 🧭 9+ yrs | ⚡ 160K+ | 🤖 20–30% | 🔌 200+ |
+| 🧭 10 yrs | ⚡ 160K+ | 🤖 20–30% | 🔌 90+ |
 |:---:|:---:|:---:|:---:|
 | engineering & team leadership | daily banking transactions at 99.9% uptime | productivity lift from AI-assisted workflows | data sources integrated on one platform |
 
@@ -36,7 +36,7 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 | Role | Period | Highlights |
 |---|---|---|
 | **Technology Manager** | Nov 2024 – Present | Lead global client engagements; introduced AI-assisted development (code gen, debugging, docs) for ~20–30% productivity gains; built LLM & intelligent-data POCs; mentor engineers across full-stack and cloud. |
-| **Technology Lead** | Jul 2021 – Nov 2024 | End-to-end delivery with 100% client satisfaction and zero escalations; owned architecture across MERN, PHP and GraphQL; led a team of 11 on a 200+ source connectors platform. |
+| **Technology Lead** | Jul 2021 – Nov 2024 | End-to-end delivery with 100% client satisfaction and zero escalations; owned architecture across MERN, PHP and GraphQL; led a team of 11 on a 90+ source connectors platform. |
 | **Software Engineer** | Oct 2019 – Jul 2021 | Technical lead for 3 parallel pods for a global advertising enterprise (Node.js, React, Redux, GraphQL). |
 | **Associate Software Engineer** | Mar 2018 – Sep 2019 | Led a team of 4; scalable APIs and backend optimisation, ~50% lift in customer satisfaction. |
 | **Software Engineer Trainee** | Aug 2017 – Feb 2018 | Internal tools — room booking and HR letter automation (PHP, Laravel, Lumen). |
