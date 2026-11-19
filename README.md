@@ -61,6 +61,18 @@ Technology Manager with **10 years** of leading engineering teams and shipping s
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/sharma-prawal/opspilot-ai"><img src="assets/projects/opspilot-ai.jpg" alt="OpsPilot AI" /></a>
+      <br/><b>OpsPilot AI</b> — local-first agentic incident investigation with human-approved remediation
+      <br/><a href="https://github.com/sharma-prawal/opspilot-ai">Code</a> · <sub>LangGraph · MCP · pgvector RAG · Ollama · Next.js</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sharma-prawal/personal-assistant"><img src="assets/projects/personal-assistant.jpg" alt="J.A.R.V.I.S." /></a>
+      <br/><b>J.A.R.V.I.S.</b> — a local daily-briefing assistant with browser agents and an LLM
+      <br/><a href="https://github.com/sharma-prawal/personal-assistant">Code</a> · <sub>Python · FastAPI · Playwright · Groq</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://prawal-personal-brand.vercel.app"><img src="assets/projects/prawal-personal-brand.jpg" alt="Personal brand portfolio" /></a>
       <br/><b>Portfolio</b> — career journey, projects, awards and certifications
       <br/><a href="https://prawal-personal-brand.vercel.app">Live</a> · <a href="https://github.com/sharma-prawal/prawal-personal-brand">Code</a> · <sub>React · Tailwind · Framer Motion</sub>
