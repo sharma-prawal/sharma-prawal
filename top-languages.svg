@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" role="img" aria-label="Top Languages">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #70a5fd; }
+    .label { font-size: 14px; fill: #38bdae; }
+    .value { font-size: 14px; font-weight: 700; fill: #38bdae; }
+  </style>
+  <rect width="400" height="170" rx="5" fill="#1a1b27"/>
+  <text x="25" y="36" class="title">Top Languages</text>
+  <rect x="25.00" y="52" width="111.19" height="8" fill="#3178c6"/>
+  <rect x="136.19" y="52" width="101.22" height="8" fill="#f1e05a"/>
+  <rect x="237.41" y="52" width="87.06" height="8" fill="#3572A5"/>
+  <rect x="324.47" y="52" width="17.29" height="8" fill="#663399"/>
+  <rect x="341.76" y="52" width="9.94" height="8" fill="#A97BFF"/>
+  <rect x="351.70" y="52" width="9.14" height="8" fill="#ff7f7f"/>
+  <circle cx="30" cy="81" r="5" fill="#3178c6"/>
+  <text x="41" y="86" class="label">TypeScript 31.8%</text>
+  <circle cx="210" cy="81" r="5" fill="#f1e05a"/>
+  <text x="221" y="86" class="label">JavaScript 28.9%</text>
+  <circle cx="30" cy="107" r="5" fill="#3572A5"/>
+  <text x="41" y="112" class="label">Python 24.9%</text>
+  <circle cx="210" cy="107" r="5" fill="#663399"/>
+  <text x="221" y="112" class="label">CSS 4.9%</text>
+  <circle cx="30" cy="133" r="5" fill="#A97BFF"/>
+  <text x="41" y="138" class="label">Kotlin 2.8%</text>
+  <circle cx="210" cy="133" r="5" fill="#ff7f7f"/>
+  <text x="221" y="138" class="label">Ren'Py 2.6%</text>
+</svg>
