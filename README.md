@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://prawal-personal-brand.vercel.app"><img src="assets/banner.svg" width="100%" alt="Prawal Sharma — Technology Manager · AI-Driven Engineering Leader · Cloud & Scalable Systems" /></a>
+<a href="https://prawalsharma.in"><img src="assets/banner.svg" width="100%" alt="Prawal Sharma — Technology Manager · AI-Driven Engineering Leader · Cloud & Scalable Systems" /></a>
 
-<a href="https://prawal-personal-brand.vercel.app">
+<a href="https://prawalsharma.in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5383B&center=true&vCenter=true&width=640&lines=Technology+Manager+%40+Successive+Digital;AI-Driven+Engineering+Leader;LLMs+%C2%B7+Agentic+AI+%C2%B7+MCP;Cloud-Native+%26+Scalable+Systems;10+years+building+for+global+clients" alt="Typing intro" />
 </a>
 
@@ -21,7 +21,7 @@ Technology Manager with **10 years** of leading engineering teams and shipping s
 
 **Claude Certified Architect (Anthropic)** · AWS, Azure and GCP certified · Media (advertising data) and Banking (payments) domains.
 
-### 🏆 [Check Out My Full Portfolio Website](https://prawal-personal-brand.vercel.app)
+### 🏆 [Check Out My Full Portfolio Website](https://prawalsharma.in)
 
 <div align="center">
 
@@ -73,9 +73,9 @@ Technology Manager with **10 years** of leading engineering teams and shipping s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://prawal-personal-brand.vercel.app"><img src="assets/projects/prawal-personal-brand.jpg" alt="Personal brand portfolio" /></a>
+      <a href="https://prawalsharma.in"><img src="assets/projects/prawal-personal-brand.jpg" alt="Personal brand portfolio" /></a>
       <br/><b>Portfolio</b> — career journey, projects, awards and certifications
-      <br/><a href="https://prawal-personal-brand.vercel.app">Live</a> · <a href="https://github.com/sharma-prawal/prawal-personal-brand">Code</a> · <sub>React · Tailwind · Framer Motion</sub>
+      <br/><a href="https://prawalsharma.in">Live</a> · <a href="https://github.com/sharma-prawal/prawal-personal-brand">Code</a> · <sub>React · Tailwind · Framer Motion</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://prawal-the-series.vercel.app"><img src="assets/projects/prawal-the-series.jpg" alt="Prawal — The Series" /></a>
